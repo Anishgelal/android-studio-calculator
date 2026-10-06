@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">lab1</string>
+
+    <string-array name="faculty_name">
+        <item> faculty </item>
+        <item>BCA</item>
+        <item>MCA</item>
+        <item>B.Tech</item>
+        <item>BSE</item>
+    </string-array>
+
+</resources>
